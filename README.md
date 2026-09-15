@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Language: Python
+Language: Java
 
 Problems Solved: 1
 
