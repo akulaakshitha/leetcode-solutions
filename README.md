@@ -17,6 +17,7 @@ Topics:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,8 @@ Topics:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
