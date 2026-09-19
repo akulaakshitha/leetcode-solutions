@@ -18,6 +18,7 @@ Topics:
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,5 @@ Topics:
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
