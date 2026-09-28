@@ -20,6 +20,7 @@ Topics:
 | [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0303-range-sum-query-immutable](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akulaakshitha/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ Topics:
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akulaakshitha/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 ## Math
 |  |
 | ------- |
