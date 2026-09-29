@@ -34,6 +34,7 @@ Topics:
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Design
 |  |
@@ -49,4 +50,8 @@ Topics:
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akulaakshitha/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
