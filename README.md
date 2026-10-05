@@ -37,6 +37,7 @@ Topics:
 | [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0338-counting-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Design
 |  |
@@ -56,4 +57,8 @@ Topics:
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
