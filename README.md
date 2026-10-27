@@ -20,6 +20,7 @@ Topics:
 | [0137-single-number-ii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/akulaakshitha/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akulaakshitha/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
@@ -59,6 +60,7 @@ Topics:
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +90,28 @@ Topics:
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/akulaakshitha/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akulaakshitha/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
